@@ -2,6 +2,8 @@
 
 ## _Multiples machine learning approaches using the iris dataset_
 
+![image](https://github.com/g3rley/iris/assets/96620547/173ba398-7271-4155-b4da-9bffba71aeed)
+
 ### This repository contains the following machine learning approaches:
 
 - _K-Means_
