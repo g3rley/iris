@@ -5,7 +5,7 @@
 ![image](https://github.com/g3rley/iris/assets/96620547/173ba398-7271-4155-b4da-9bffba71aeed)
 
 <div style="text-align: justify">
-This repository contains a data analysis of the iris dataset using multiples machine learning approaches. The analysis was made using Python and the Jupyter Notebook. The iris dataset is a multivariate dataset introduced by the British statistician and biologist Ronald Fisher in his 1936 paper _The use of multiple measurements in taxonomic problems as an example of linear discriminant analysis_. The dataset consists of 50 samples from each of three species of Iris (Iris setosa, Iris virginica and Iris versicolor). Four features were measured from each sample: the length and the width of the sepals and petals, in centimeters. The dataset is often used in data mining, classification and clustering examples and to test algorithms.
+This repository contains a data analysis of the iris dataset using multiple machine learning approaches in Python and Jupyter Notebook. The iris dataset is a multivariate dataset introduced by Ronald Fisher in 1936. It consists of 150 samples from three species of Iris (setosa, virginica, and versicolor) with four measured features: sepal length, sepal width, petal length, and petal width. The dataset is commonly used for data mining, classification, clustering, and algorithm testing purposes.
 </div>
 
 <br />
